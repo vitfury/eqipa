@@ -1,2 +1,2 @@
-# ready-app
-eqipa
+# eqipa
+eqipa backend app
